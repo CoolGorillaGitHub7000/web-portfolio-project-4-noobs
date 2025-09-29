@@ -6,13 +6,13 @@
   /* page background */
   --text: #000831;
   /* main text */
-  --surface: #d1fdcd;
+  --surface: #ffffff;
   /* cards, boxes, list items */
   --nav: #004f01;
   /* navbar (dark bar) */
   --accent: #7C3AED;
   /* links & primary buttons */
-    --hero: #d1fdcd;
+    --hero: #ffffff;
   /* jumbotron/hero bg */
 }
 
